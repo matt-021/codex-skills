@@ -20,6 +20,10 @@
 - 每个 skill 使用独立目录
 - 每个目录至少包含一个 `SKILL.md`
 
+## 工具脚本
+
+- `tools/pan-fetch.ps1`：半自动处理百度网盘项目下载
+
 ## 使用方式
 
 将本仓库中的 skill 目录同步到 Codex 的 skills 目录后即可使用。
